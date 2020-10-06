@@ -25,6 +25,8 @@ export const FormWrap = styled.div`
 
   @media screen and (max-width: 400px) {
     height: 80%;
+    width: 90%;
+    margin: 0 auto;
   }
 `;
 
